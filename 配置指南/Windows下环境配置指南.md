@@ -1,6 +1,7 @@
 # Windows下配置
 
 本指南来自github用户：viccrubs
+
 bochs和nasm都是跨平台的，如果只是为了本系统课程完全不需要自己安装Linux。
 
 ## 0. 环境
